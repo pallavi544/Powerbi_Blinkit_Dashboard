@@ -17,6 +17,7 @@ Practice data storytelling and Power BI visualization best practices
 
 
 **Key Features:
+
  *Interactive Dashboard: Slicers and filters allow users to explore the data dynamically.
 
  *Business-Centric KPIs: Includes revenue, order counts, delivery speed, customer ratings, etc.
