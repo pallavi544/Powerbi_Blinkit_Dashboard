@@ -4,15 +4,15 @@ This project showcases a Power BI dashboard designed to analyze data related to 
 
 **Objective:
 
-*The goal of this project is to:
+The goal of this project is to:
 
-*Present key performance indicators (KPIs) of Blinkit using interactive visuals
+Present key performance indicators (KPIs) of Blinkit using interactive visuals
 
-*Explore customer behavior and business performance over time
+Explore customer behavior and business performance over time
 
-*Develop a user-friendly and visually appealing BI dashboard
+Develop a user-friendly and visually appealing BI dashboard
 
-*Practice data storytelling and Power BI visualization best practices
+Practice data storytelling and Power BI visualization best practices
 
 
 
@@ -31,11 +31,11 @@ This project showcases a Power BI dashboard designed to analyze data related to 
 
 **Tools Used and Tool	Purpose:
 
-*Power BI	Data modeling and dashboard creation
+Power BI	Data modeling and dashboard creation
 
-*Excel/CSV	Data source (assumed)
+Excel/CSV	Data source (assumed)
 
-*DAX	Custom calculations and KPIs
+DAX	Custom calculations and KPIs
 
 
 
