@@ -30,7 +30,7 @@ Practice data storytelling and Power BI visualization best practices
 
 
 
-**Tools Used and Tool	Purpose:
+**Tools used:
 
 Power BI	Data modeling and dashboard creation
 
