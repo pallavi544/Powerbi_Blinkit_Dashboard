@@ -1,6 +1,7 @@
 # Powerbi_Blinkit_Dashboard
 This project showcases a Power BI dashboard designed to analyze data related to Blinkit, a quick-commerce/delivery service platform. The report provides insights into various business metrics such as order volumes, customer trends, revenue, delivery performance, and more.
 
+
 **Objective:
 
 *The goal of this project is to:
@@ -12,6 +13,7 @@ This project showcases a Power BI dashboard designed to analyze data related to 
 *Develop a user-friendly and visually appealing BI dashboard
 
 *Practice data storytelling and Power BI visualization best practices
+
 
 
 **Key Features:
@@ -26,6 +28,7 @@ This project showcases a Power BI dashboard designed to analyze data related to 
 *Geographical Insights: (If applicable) includes region-based breakdowns.
 
 
+
 **Tools Used and Tool	Purpose:
 
 *Power BI	Data modeling and dashboard creation
@@ -33,6 +36,7 @@ This project showcases a Power BI dashboard designed to analyze data related to 
 *Excel/CSV	Data source (assumed)
 
 *DAX	Custom calculations and KPIs
+
 
 
 ### 🔗 View the Dashboard Report
