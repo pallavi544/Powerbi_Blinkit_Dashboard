@@ -1,44 +1,44 @@
 # Powerbi_Blinkit_Dashboard
-This project showcases a Power BI dashboard designed to analyze data related to Blinkit, a quick-commerce/delivery service platform. The report provides insights into various business metrics such as order volumes, customer trends, revenue, delivery performance, and more.
+## About the Project
+This project demonstrates the use of Power BI to create an interactive and insightful dashboard for analyzing sales data from Blinkit, a fast-delivery grocery platform. It helps visualize sales trends, customer behavior, and product performance in an intuitive way, providing valuable business insights for data-driven decision-making.
 
+## Objectives
+*Practice using Power BI's data modeling and visualization tools
 
-**Objective:
+*Generate clear and impactful business dashboards
 
-The goal of this project is to:
+*Apply filters, slicers, and visuals to explore multiple business KPIs
 
-Present key performance indicators (KPIs) of Blinkit using interactive visuals
+*Understand how visuals aid in interpreting and communicating business insights
 
-Explore customer behavior and business performance over time
+## Visuals Covered
+*Line Chart – Monthly sales trends
 
-Develop a user-friendly and visually appealing BI dashboard
+*Bar Chart – Top-performing products and categories
 
-Practice data storytelling and Power BI visualization best practices
+*Pie Chart – Category-wise contribution to revenue
 
+*Cards & KPIs – Total sales, number of orders, customer counts
 
+*Map Visual – Region-wise sales performance
 
-**Key Features:
+*Each visual is designed to provide specific insights into business operations and customer behavior.
 
- *Interactive Dashboard: Slicers and filters allow users to explore the data dynamically.
+## Technologies Used
+*Power BI Desktop – Data visualization tool
 
- *Business-Centric KPIs: Includes revenue, order counts, delivery speed, customer ratings, etc.
+*DAX (Data Analysis Expressions) – For calculated columns and measures
 
- *Charts and Visuals: Uses bar charts, line graphs, pie charts, and KPI cards.
+*Power Query Editor – For data cleaning and transformation
 
- *Time-Based Analysis: Trends and comparisons across different time periods.
+*Excel – Used as the source file for the dataset
 
- *Geographical Insights: (If applicable) includes region-based breakdowns.
+## How to View the Project
+1.Download the .pbix file from this repository.
 
+2.Open it using Power BI Desktop.
 
-
-**Tools used:
-
-Power BI	Data modeling and dashboard creation
-
-Excel/CSV	Data source (assumed)
-
-DAX	Custom calculations and KPIs
-
-
+3.Interact with the dashboard using slicers, filters, and visuals.
 
 ### 🔗 View the Dashboard Report
 
