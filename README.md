@@ -1,37 +1,88 @@
-# Powerbi_Blinkit_Dashboard
-## About the Project
-This project demonstrates the use of Power BI to create an interactive and insightful dashboard for analyzing sales data from Blinkit, a fast-delivery grocery platform. It helps visualize sales trends, customer behavior, and product performance in an intuitive way, providing valuable business insights for data-driven decision-making.
+#  Blinkit Power BI Dashboard
 
-## Objectives
-* Practice using Power BI's data modeling and visualization tools
+> **Project Title**: Blinkit – India's Last Minute App  
+> **Tool Used**: Microsoft Power BI  
+> **Domain**: Retail / E-Commerce / FMCG  
+> **Dataset**: Grocery Outlet Data
 
-* Generate clear and impactful business dashboards
+---
 
-* Apply filters, slicers, and visuals to explore multiple business KPIs
+##  Project Description
 
-* Understand how visuals aid in interpreting and communicating business insights
+This Power BI dashboard project analyzes operational and product-level data from Blinkit (formerly Grofers), a fast-growing Indian instant delivery app. The focus of the analysis is to explore and visualize insights around:
 
-## Visuals Covered
-* Line Chart – Monthly sales trends
+- Product variety and fat content categories
+- Sales performance across outlet types
+- Customer rating patterns
+- Outlet performance by tier, size, and establishment year
 
-* Bar Chart – Top-performing products and categories
+The dashboard enables stakeholders to make data-driven decisions based on performance trends, customer satisfaction, and item distribution.
 
-* Pie Chart – Category-wise contribution to revenue
+---
 
-* Cards & KPIs – Total sales, number of orders, customer counts
+##  Key Metrics & Visualizations
 
-* Map Visual – Region-wise sales performance
+###  KPI Cards (Top Indicators)
+-  **Total Sales**: `$1.0M`
+-  **Average Sales per Item**: `$141`
+-  **Average Customer Rating**: `3.92`
+-  **No. of Item Types**: `7,000`
 
-* Each visual is designed to provide specific insights into business operations and customer behavior.
+---
 
-## Technologies Used
-* Power BI Desktop – Data visualization tool
+###  Visual Elements
 
-* DAX (Data Analysis Expressions) – For calculated columns and measures
+#### 1. **Item Fat Content Analysis**
+- Pie Chart: Breakdown into **Low Fat**, **Regular**, and **Reg**
+- ~64.4% of products are **Low Fat**
 
-* Power Query Editor – For data cleaning and transformation
+#### 2. **Fat Type by Outlet Location Tier**
+- Clustered bar showing distribution of fat content across **Tier 1**, **Tier 2**, and **Tier 3** locations
 
-* Excel – Used as the source file for the dataset
+#### 3. **Item Type Breakdown**
+- Horizontal bar chart: Most frequent types include **Fruits**, **Snacks**, **Frozen**, **Dairy**
+
+#### 4. **Outlet Attributes**
+-  Line Chart: Item count trends by **Outlet Establishment Year**
+-  Donut Chart: Distribution by **Outlet Size** (Small, Medium, High)
+-  Bar Chart: Comparison of **Tier-wise outlet item types**
+
+#### 5. **Performance Table**
+| Outlet Type         | Total Sales     | Avg Sales | Avg Rating | Item Count |
+|---------------------|------------------|------------|-------------|------------|
+| Grocery Store       | $78,131.57       | 140.78     | 3.92        | Moderate   |
+| Supermarket Type 1  | $787,549.89      | 141.21     | 3.92        | Highest    |
+| Supermarket Type 2  | $131,477.78      | 141.68     | 3.93        | High       |
+
+---
+
+##  Key Insights
+
+- **Low Fat** items are preferred by outlets (~64% of items).
+- **Supermarket Type 1** generated the **highest sales**.
+- **Tier 2 cities** carry the highest number of item types, indicating strong regional growth.
+- Overall customer satisfaction is consistent across outlet types (~3.92 rating).
+- Most outlets were established after 2010, with a consistent rise until 2022.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+| Tool         | Purpose                          |
+|--------------|----------------------------------|
+| Power BI     | Dashboard design & visualization |
+| Excel        | Data cleaning and preparation    |
+
+---
+
+##  Future Enhancements
+
+- Add **slicers** for item categories, outlet location, and date range.
+- Include **inventory turnover** and **return rate** metrics.
+- Integrate **real-time data sources** using Power BI service for live tracking.
+- Add **regional comparisons** (state/city level).
+
+---
 
 ## How to View the Project
 1.Download the .pbix file from this repository.
